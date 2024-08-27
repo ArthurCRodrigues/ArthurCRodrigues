@@ -1,4 +1,4 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurCRodrigues&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <a href="https://github.com/AVS1508">
